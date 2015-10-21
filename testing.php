@@ -1,7 +1,12 @@
 
 <?php
 
+
 echo "Ian";
+
+echo “haha”;
+
+
 include('header_inc.php');
 ?>
 
