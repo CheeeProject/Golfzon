@@ -1,6 +1,7 @@
 
 <?php
 
+echo “haha”;
 
 include('header_inc.php');
 ?>
